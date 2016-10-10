@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">yop_android</string>
+    <string name="btn_upload">上传数据</string>
+    <string name="btn_query">查询数据</string>
+</resources>
